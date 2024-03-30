@@ -1,6 +1,6 @@
 {
     "data": [
-            { "label": "Amok/Klav p.o.", "value": {"dose": 50, "limit": 2000, "dpd": 2} },
+            { "label": "Amok/Klav p.o.", "value": {"dose": 50, "limit": 2000, "dpd": 2, "aliases": ["Augmentin", "İlaç 1", "İlaç 2"] } },
             { "label": "Sefdinir", "value": {"dose": 14, "limit": 600, "dpd": 2} },
             { "label": "Klaritromisin p.o.", "value": {"dose": 15, "limit": 1000, "dpd": 2} },
             { "label": "Sefuroksim Aksetil p.o.", "value": {"dose": 20, "limit": 1000, "dpd": 2} },
