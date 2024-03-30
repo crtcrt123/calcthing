@@ -16,6 +16,5 @@
             { "label": "Metronidazol p.o.", "value": {"dose": 25, "limit": 1500, "dpd": 3} },
             { "label": "Sefaleksin p.o.", "value": {"dose": 30, "limit": 1500, "dpd": 2} },
             { "label": "Sefazolin Sodyum", "value": {"dose": 25, "limit": 2000, "dpd": 2} },
-            
         ]
 }
