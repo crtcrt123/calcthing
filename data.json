@@ -2,19 +2,20 @@
     "data": [
             { "label": "Amok/Klav p.o.", "value": {"dose": 50, "limit": 2000, "dpd": 2} },
             { "label": "Sefdinir", "value": {"dose": 14, "limit": 600, "dpd": 2} },
-            { "label": "Sefixim p.o.", "value": {"dose": 8, "limit": 400, "dpd": 1} },
-            { "label": "Seftriakson i.m.", "value": {"dose": 75, "limit": 1000, "dpd": 1} },
             { "label": "Klaritromisin p.o.", "value": {"dose": 15, "limit": 1000, "dpd": 2} },
             { "label": "Sefuroksim Aksetil p.o.", "value": {"dose": 20, "limit": 1000, "dpd": 2} },
+            { "label": "Metronidazol p.o.", "value": {"dose": 25, "limit": 1500, "dpd": 3} },
+            { "label": "Sefixim p.o.", "value": {"dose": 8, "limit": 400, "dpd": 1} },
+            { "label": "Sulbaktam/Ampisilin p.o.", "value": {"dose": 50, "limit": 1500, "dpd": 2} },
+            { "label": "Sefaleksin p.o.", "value": {"dose": 30, "limit": 1500, "dpd": 2} },
             { "label": "Sefprozil p.o.", "value": {"dose": 15, "limit": 1000, "dpd": 2} },
             { "label": "Asiklovir p.o.", "value": {"dose": 40, "limit": 4000, "dpd": 5} },
-            { "label": "Siproflosasin p.o.", "value": {"dose": 15, "limit": 1000, "dpd": 2} },
+            { "label": "Siprofloksasin p.o.", "value": {"dose": 15, "limit": 1000, "dpd": 2} },
+        
             { "label": "Siproflosasin i.v.", "value": {"dose": 10, "limit": 800, "dpd": 2} },
-            { "label": "Sulbaktam/Ampisilin p.o.", "value": {"dose": 50, "limit": 1500, "dpd": 2} },
-            { "label": "Seftazidim i.v.", "value": {"dose": 150, "limit": 2000, "dpd": 3} },
-            { "label": "Amikasin i.v.", "value": {"dose": 15, "limit": 1500, "dpd": 3} },
-            { "label": "Metronidazol p.o.", "value": {"dose": 25, "limit": 1500, "dpd": 3} },
-            { "label": "Sefaleksin p.o.", "value": {"dose": 30, "limit": 1500, "dpd": 2} },
             { "label": "Sefazolin Sodyum", "value": {"dose": 25, "limit": 2000, "dpd": 2} },
+            { "label": "Seftriakson i.m.", "value": {"dose": 75, "limit": 1000, "dpd": 1} },
+            { "label": "Seftazidim i.v.", "value": {"dose": 150, "limit": 2000, "dpd": 3} },
+            { "label": "Amikasin i.v.", "value": {"dose": 15, "limit": 1500, "dpd": 3} },          
         ]
 }
