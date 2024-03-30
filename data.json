@@ -10,8 +10,7 @@
             { "label": "Sefaleksin p.o.", "value": {"dose": 30, "limit": 1500, "dpd": 2} },
             { "label": "Sefprozil p.o.", "value": {"dose": 15, "limit": 1000, "dpd": 2} },
             { "label": "Asiklovir p.o.", "value": {"dose": 40, "limit": 4000, "dpd": 5} },
-            { "label": "Siprofloksasin p.o.", "value": {"dose": 15, "limit": 1000, "dpd": 2} },
-        
+            { "label": "Siprofloksasin p.o.", "value": {"dose": 15, "limit": 1000, "dpd": 2} },  
             { "label": "Siproflosasin i.v.", "value": {"dose": 10, "limit": 800, "dpd": 2} },
             { "label": "Sefazolin Sodyum", "value": {"dose": 25, "limit": 2000, "dpd": 2} },
             { "label": "Seftriakson i.m.", "value": {"dose": 75, "limit": 1000, "dpd": 1} },
