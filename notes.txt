@@ -23,5 +23,8 @@ Bulantı → Dramamine
 Buşon=sıkışmış serumen → oksibor
 Tırnak mantarı---tineainguium
 Doğum kontrol yöntemi kodu=z30
+    İlaç raporları:
+        strip raporu kodları 07.02.1.4 sadece oral antidiyab...
+                             e11 e13 e14
 
 
