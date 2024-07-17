@@ -10,6 +10,7 @@ GEBELİKTE TSH ARALIKLARI
 gebelikte bulantı için → Prilam dr 1x2 veya Premezis plus 2x1
 Bebeklerde allerjik dermatit → Stelatopia krem
 B02-herpes zoster zona → Zostex 125 mg 1x1
+Buşon - Sıkışmış serumen → oksibor kulak solüsyonu
 Göz:
     acufix göz damlası = tahrişlerde kaynak almalarda
     dolte göz damlası = steroid gerektiren durumlarda
@@ -26,5 +27,16 @@ Doğum kontrol yöntemi kodu=z30
     İlaç raporları:
         strip raporu kodları 07.02.1.4 sadece oral antidiyab...
                              e11 e13 e14
+L84 → nasır
+M62.6 - KAS ZORLANMASI (MUSCULAR STRAİN)
+z03.9 covid
+ICD Z64.4 Danışmanlarla anlaşmazlık,
+    TIBBİ CİHAZ KODLARI:
+        a10010 SONDA, HİDROFİLİK KENDİNDEN KAYGANLAŞTIRICILI
+        a10024 gastrostomi torbası ???
+        a10123 enteral beslenme???
+        a10136 kolostomi pastası
+        a10138 kolostomi torbası
+        a10139 kolostomi adaptorü
 
 
