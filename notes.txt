@@ -15,10 +15,13 @@ Göz:
     dolte göz damlası = steroid gerektiren durumlarda
     ofnol-s %0,2 atopik konj.
 Akne= akela fort jel %4 - akneflox %1 krem
+Hiperkeratoz → üresal fort
+Yoğun eklem ağrısı - gonartroz → Zaldiar
 Anal fissür için tonus azaltıcı → Anrecta  2x1 
 (mercimek tanesi kadar-Baş ağrısı yapabilir)
-Dramamine - bulantı için
+Bulantı → Dramamine
 Buşon=sıkışmış serumen → oksibor
 Tırnak mantarı---tineainguium
+Doğum kontrol yöntemi kodu=z30
 
 
